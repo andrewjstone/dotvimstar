@@ -1,7 +1,7 @@
 call pathogen#infect()
 syntax on
 filetype plugin indent on
-colorscheme desert
+colorscheme lucius 
 set tabstop=8 
 set shiftwidth=2 
 set softtabstop=2

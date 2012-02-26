@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/ajs/bozuko/app/static/js/desktop/Bozuko/controller'
-let g:netrw_dirhist_2='/home/ajs/bozuko/app/static/js/desktop/Bozuko'
-let g:netrw_dirhist_3='/home/ajs/bozuko/app/static/js/desktop'
-let g:netrw_dirhist_4='/Users/ajs/seer'
-let g:netrw_dirhist_5='/Users/ajs/assetgen'
-let g:netrw_dirhist_6='/Users/ajs/terraform/bin'
-let g:netrw_dirhist_7='/Users/ajs/ace/build/textarea'
-let g:netrw_dirhist_8='/Users/ajs/node_modules'
-let g:netrw_dirhist_9='/Users/ajs/assetgen'
+let g:netrw_dirhist_cnt =0
